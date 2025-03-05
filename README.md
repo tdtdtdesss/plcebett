@@ -1,13 +1,8 @@
 <h1>🎰 Palacebet – Kazancın Yeni Adresi! 💰🔥</h1>
 
 <a href="https://cutt.ly/PalaceLink" title="Palacebet">
-  <img src="https://i.ibb.co/YjtLwQ8/cats.jpg" alt="Palacebet" style="max-width: 100%; border: 3px solid #ff4500; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 69, 0, 0.8);">
+  <img src="https://i.ibb.co/BtMhhf6/g-venligiris.jpg" alt="Palacebet Casino" style="max-width: 100%; border: 3px solid #ff4500; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 69, 0, 0.8);">
 </a>
-
-<a href="https://cutt.ly/PalaceLink" title="Palacebet Casino">
-  <img src="https://i.ibb.co/VHdrjnQ/df.jpg" alt="Palacebet Casino" style="max-width: 100%; border: 3px solid #ff4500; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 69, 0, 0.8);">
-</a>
-
 <h2>🚀 Palacebet Avantajları</h2>
 <ul>
   <li>✔️ Geniş bahis seçenekleri ve yüksek oranlar!</li>
